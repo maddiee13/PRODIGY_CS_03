@@ -1,0 +1,9 @@
+# Required dependencies
+colorama>=0.4.0  # For colored CLI output
+
+# GUI dependencies
+# Tkinter is included with most Python installations
+
+# Optional for enhanced GUI appearance
+# Uncomment to use themed widgets
+# ttkthemes>=3.2.2 
